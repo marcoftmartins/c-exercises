@@ -11,5 +11,5 @@ int main() {
   for (i=0;i<5;i++){
     sum+=nums[i];
   }
-  printf("Soma dos valores = %d",sum);
+  printf("Vector sum = %d",sum);
 }
